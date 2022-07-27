@@ -1,54 +1,15 @@
 # vulnerablewp
 Vulnerable Wordpress on Ubuntu Server OVF
+
+It is a plug and play virtual machine - an import of a running working machine.
+Password for Ubuntu login: ubuntu1
+
+
+Manual Setup Steps
+
 Setting up Ubuntu Server
 Downloading Ubuntu and Creating VM
 Download Ubuntu Server from: https://ubuntu.com/download/server
-
-
-
-
-
-
-
-
-Create a New Virtual Machine in VMware
-   ش
-Add the installer disk downloaded on the next dialog
-
-Follow the defaults
-Your specifications should be similar to this
-
-Your virtual machine will b launched after that
-
-
-
-
-
-
-Vulnerable Wordpress Application Setup
-
-
-## Context
-
-A little context before we start. This Damn Vulnerable WordPress Application will be part of a larger lab topology which will be used by the current and hopefully future red teams interning with Virtually Testing Foundation. This DVWP will be of the DMZ subnet of the topology and will be exposed to the outer networks and will act as a first point of contact with the attacker per se.
-
-
-## Setting up Ubuntu Server
-
-
-### _Downloading Ubuntu and Creating VM_
-
-- Download Ubuntu Server from: <https://ubuntu.com/download/server>
-
-![](https://lh6.googleusercontent.com/fQcW4bazFc2FaIOeOYuUvEnWrxx4UVlna_iiyZd2foKz7VaFk69q-Q_mPQkkVSii5Ga5Rz3-MxkEKR_50pVbs9sBnwEUT2AjOyazYO1wu0Mb6D79ioAoT9VZek6Op9ozuHkr8gdDRJqTpkdk_2o)
-
-  
-  
-  
-  
-  
-  
-
 
 - Create a New Virtual Machine in VMware
 
@@ -118,7 +79,7 @@ A little context before we start. This Damn Vulnerable WordPress Application wil
 
 ![](https://lh5.googleusercontent.com/Nyin843RzWBYUz8-AFda_ObkTf_LC5CgsZ6apIXx8YAivLgXB-w0_of1iWM5GN_cLw-6TeDgTKEm8S8mvm4nGl54Uo27-uGfBBjtPVYpO4dumXF1NFCuDC76bw-1PlRMoAN3qxKjETj8QapQ1tY)
 
-- Check whether to install OpenSSH - Recommended: Install OpenSSh
+- Check whether to install OpenSSH - Recommended: Install OpenSSH
 
 ![](https://lh5.googleusercontent.com/HtHhYRSCbFalK-VpeTLs-SOzG3zt06C9-RSFjtyqixxmMfc4l1_w74dcofpoW9M41vbFeTeg_VEqsXtJZtgBnpbUgEmyilPBfHQ1IT4j2AWM-ORjasMsUPb8CIzyWWez6yMMxDTAvLJwQgD8wWs)
 
