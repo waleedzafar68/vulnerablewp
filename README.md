@@ -42,3 +42,10 @@
   11. All activated.
   
       ![](https://lh5.googleusercontent.com/vdjpHBlHY14K2JW1oNxAsAZptDrxldlhfLWsQsr08qq9rl9KOsrfxxhYvHCXJtj9v9yTE0wmO311OzpGY73_BjluVg5qsH_URoH4JKf7ImLxy6XjUD-9B_KUrIius7scVg0Lcbf72MshKunBYXRLhxc)
+      
+ ## Vulnerable Plugins:
+ ### Mail Masta v1.0 (CVE-2017-6095-6098, CVE-2017-6570-6570)
+ ### Duplicator v1.2.32 (CVE-2018-7543, CVE-2018-17207, CVE-2020-11738)
+ ### ReFlex Gallery v3.1.7 (CVE-2015-4133) 
+ ### WP Google Maps v3.4 (CVE-2014-7182)
+ 
