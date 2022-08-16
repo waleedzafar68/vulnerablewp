@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ReFlex Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-16 21:14-0800\n"
+"PO-Revision-Date: 2013-09-16 21:15-0800\n"
+"Last-Translator: Tyson Hahn <tysons_music@yahoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\ThemeFactory\\wp-content\\plugins\\reflex-gallery\n"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/reflex-gallery.php:168
+msgid "ReFlex Gallery"
+msgstr "ReFlex Gallery"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/reflex-gallery.php:169
+msgid "ReFlex Gallery >> Add Gallery"
+msgstr "ReFlex Gallery >> Galerie Hinzufügen"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/reflex-gallery.php:169
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:40
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:92
+msgid "Add Gallery"
+msgstr "Galerie Hinzufügen"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/reflex-gallery.php:170
+msgid "ReFlex Gallery >> Edit Gallery"
+msgstr "ReFlex Gallery >> Bearbeiten Galerie"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/reflex-gallery.php:170
+msgid "Edit Gallery"
+msgstr "Bearbeiten Galerie"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/reflex-gallery.php:171
+msgid "ReFlex Gallery >> Add Images"
+msgstr "ReFlex Gallery >> Bilder Hinzufügen"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/reflex-gallery.php:171
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:64
+msgid "Add Images"
+msgstr "Bilder Hinzufügen"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:27
+msgid "Gallery Added."
+msgstr "Galerie Gestellt."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:33
+msgid "Please enter a gallery name."
+msgstr "Bitte geben Sie eine Name der Galerie."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:44
+msgid "Copy and paste this code into the page or post that you would like to display the gallery."
+msgstr "Kopieren und fügen Sie diesen Code in der Seite oder senden, dass Sie möchten, um die Galerie anzuzeigen."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:49
+msgid "This is where you can create new galleries. Once the new gallery has been added, a short code will be provided for use in posts."
+msgstr "Dies ist, wo können Sie neue Galerien erstellen. Sobald die neue Galerie hinzugefügt wurde, wird ein kurzer Code für den Einsatz in Beiträge zur Verfügung gestellt werden."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:58
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:65
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:76
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:81
+msgid "Attribute"
+msgstr "Eigenschaft"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:59
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:66
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:98
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:105
+msgid "Value"
+msgstr "Zeitwert"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:60
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:67
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:75
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:83
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:45
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:53
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:99
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:106
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:41
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:49
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:78
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:83
+msgid "Description"
+msgstr "Beschreibung"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:72
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:111
+msgid "Enter Gallery Name"
+msgstr "Geben Sie den Namen Galerie"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:74
+msgid "This name is the internal name for the gallery.<br />Please avoid non-letter characters such as"
+msgstr "Dieser Name ist der interne Name für die Galerie.<br />Bitte vermeiden Sie nicht Brief Zeichen wie"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:77
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:116
+msgid "Enter Gallery Description"
+msgstr "Geben Gallery Beschreibung"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:79
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:118
+msgid "This description is for internal use."
+msgstr "Diese Beschreibung ist für den internen Gebrauch."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:82
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:121
+msgid "Enter Thumbnail Width"
+msgstr "Geben Miniaturbild Breite"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:84
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:123
+msgid "This is the width of the gallery thumbnail image."
+msgstr "Dies ist die Breite der Galerie Miniaturbild."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:87
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:126
+msgid "Enter Thumbnail Height"
+msgstr "Geben Miniaturbild Höhe"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:89
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:128
+msgid "This is the height of the gallery thumbnail image."
+msgstr "Dies ist die Höhe der Galerie Miniaturansicht."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-gallery.php:103
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:233
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:143
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:126
+msgid "Please consider making a donation for the continued development of this plugin. Thanks."
+msgstr "Bitte beachten Sie, eine Spende für die weitere Entwicklung dieses Plugins. Vielen Dank."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:17
+msgid "Image saved."
+msgstr "Bild gespeichert."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:35
+msgid "Image has been edited."
+msgstr "Bild bearbeitet wurde."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:49
+msgid "Image has been deleted."
+msgstr "Bild wurde gelöscht."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:70
+msgid "Select a gallery to add or edit its images"
+msgstr "Wählen Sie eine Galerie hinzufügen oder bearbeiten ihre Bilder"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:74
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:82
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:44
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:52
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:39
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:47
+msgid "Gallery Name"
+msgstr "Name der Galerie"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:101
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:71
+msgid "Select Gallery"
+msgstr "Wählen Gallery"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:117
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:126
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:183
+msgid "Image Path"
+msgstr "Bild Pfad"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:118
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:127
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:184
+msgid "Image Title"
+msgstr "Bild Titel"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:119
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:128
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:185
+msgid "Image Description"
+msgstr "Bildbeschreibung"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:120
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:129
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:186
+msgid "Sort Order"
+msgstr "Sortierung"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:150
+msgid "Gallery Images"
+msgstr "Sortierung"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:154
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:86
+msgid "Switch Gallery"
+msgstr "Sortierung"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:156
+msgid "Edit existing images in this gallery"
+msgstr "Bearbeiten Sie vorhandene Bilder in dieser Galerie"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:160
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:168
+msgid "Image Preview"
+msgstr "Bild Vorschau"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:161
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:169
+msgid "Image Info"
+msgstr "Bild Info"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:177
+msgid "Click to preview"
+msgstr "Klicken Sie in der Vorschau"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:189
+msgid "Edit Image"
+msgstr "Bild bearbeiten"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/add-images.php:197
+msgid "Delete Image"
+msgstr "Bild löschen"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:30
+msgid "Gallery has been edited."
+msgstr "Galerie bearbeitet wurde."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:38
+msgid "Edit Galleries"
+msgstr "bearbeiten Galerien"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:40
+msgid "Select a gallery to edit its properties"
+msgstr "Wählen Sie eine Galerie, um dessen Eigenschaften zu bearbeiten"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:89
+msgid "Click \"Save Changes\" after making changes"
+msgstr "Klicken Sie auf \"Änderungen speichern\" nach Änderungen"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:97
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:104
+msgid "Attribute Name"
+msgstr "Attributname"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:113
+msgid "This name is the internal name for the gallery."
+msgstr "Dieser Name ist der interne Name für die Galerie."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:113
+msgid "Please avoid non-letter characters such as"
+msgstr "Bitte vermeiden Sie nicht Brief Zeichen wie"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/edit-gallery.php:131
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:9
+msgid "Gallery has been deleted."
+msgstr "Galerie wurde gelöscht."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:27
+msgid "Gallery options have been updated."
+msgstr "Galerie Optionen wurden aktualisiert."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:35
+msgid "This is a listing of all galleries"
+msgstr "Dies ist eine Auflistung aller Galerien"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:40
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:48
+msgid "Gallery Short Code"
+msgstr "Galerie Shortcode"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:63
+msgid "Delete Gallery"
+msgstr "löschen Galerie"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:71
+msgid "Default Options"
+msgstr "Standard Optionen"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:77
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:82
+msgid "Default Value"
+msgstr "Default Wert"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:87
+msgid "Default Thumbnail Width"
+msgstr "Standard-Miniaturansicht Breite"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:89
+msgid "This is the default width (in pixels) of all of the gallery thumbnail images.<br />(This property can be overwritten when creating individual galleries.)"
+msgstr "Dies ist die Standardeinstellung Breite (in Pixeln) aller Galerie Miniaturbilder. <br /> (Diese Eigenschaft kann überschrieben werden, wenn die Erstellung individueller Galerien.)"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:92
+msgid "Default Thumbnail Height"
+msgstr "Standard-Miniaturansicht Höhe"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:94
+msgid "This is the default height (in pixels) of all of the gallery thumbnail images.<br />(This property can be overwritten when creating individual galleries.)"
+msgstr "Dies ist die Standardeinstellung Höhe (in Pixeln) aller Galerie Miniaturbilder. <br /> (Diese Eigenschaft kann überschrieben werden, wenn die Erstellung individueller Galerien.)"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:97
+msgid "Custom Thumbnail Style"
+msgstr "Individuelle Miniaturansichtsstil"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:99
+msgid "This is where you would add custom styles for the gallery thumbnails.<br />(ex: border: solid 1px #cccccc; padding: 2px; margin-right: 10px;)"
+msgstr "Dies ist, wo Sie benutzerdefinierte Stile für die Galerie Thumbnails hinzufügen würde.<br />(ex: border: solid 1px #cccccc; padding: 2px; margin-right: 10px;)"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:102
+msgid "Hide Gallery Overlay"
+msgstr "Galerie Overlay ausblenden"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:103
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:108
+msgid "checked='checked'"
+msgstr "checked='checked'"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:104
+msgid "Show or Hide thumbnail gallery overlay in modal window popup. Check to hide the overlay."
+msgstr "Anzeigen oder Ausblenden Thumbnail Galerie Overlay in modalen Fenster popup. Überprüfen Sie das Overlay zu verstecken."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:107
+msgid "Hide Social Sharing"
+msgstr "Ausblenden Social Freigabe"
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:109
+msgid "Show or Hide social sharing buttons in modal window popup. Check to hide Twitter and Facebook buttons."
+msgstr "Anzeigen oder Ausblenden von Social Sharing Buttons im Popup-Fenster modal. Überprüfen Sie, Twitter und Facebook Buttons verstecken."
+
+#: C:\xampp\htdocs\ThemeFactory\wp-content\plugins\reflex-gallery/admin/overview.php:114
+msgid "Save"
+msgstr "Speichern"
+

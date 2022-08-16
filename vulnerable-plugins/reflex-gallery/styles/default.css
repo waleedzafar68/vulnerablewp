@@ -1,0 +1,37 @@
+.reflex-gallery {    
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+    width: 158px; 
+}
+
+    .reflex-gallery img {
+       border: solid 1px #cccccc;       
+       padding: 3px;
+       opacity: 0.75;
+    }
+    .reflex-gallery img:hover {
+       cursor: pointer;
+       opacity: 1.0; 
+    }
+	
+	.reflex-gallery img.dShadow {
+		box-shadow: 0px 0px 10px #cccccc;
+		
+		transition: box-shadow 250ms;
+       -webkit-transition: box-shadow 250ms; /* Safari */
+	   
+	   transition: opacity 250ms;
+       -webkit-transition: opacity 250ms; /* Safari */
+	}
+	.reflex-gallery img.dShadow:hover {
+		box-shadow: 3px 3px 10px #888888;
+	}
+
+.rg-title {
+    font-weight: bold;
+	margin-bottom: 5px;
+}
+.rg-description {
+    display: block;
+}
