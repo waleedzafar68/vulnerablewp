@@ -7,4 +7,6 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.27.4/docker-
 sudo chmod +x /usr/local/bin/docker-compose #manual install
 echo "Running docker containers"
 docker version
+service docker start
+service docker restart
 docker-compose up -d
